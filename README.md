@@ -1,6 +1,6 @@
-# Desafio de Projeto sobre Git/GitHub da DIO
+# Orange Tech DIO
 
-Desafio de Projeto sobre Git/Github
+Projetos básicos de JAVA para a Orange Tech no DIO.
 ***
 >## Links Úteis
 >>[Sintaxe Básica de Markdown](https://www.markdownguide.org/basic-syntax/)  
